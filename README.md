@@ -7,4 +7,4 @@ Made using BeepInEx + M101's Baldi Modding API
 
 # Installing Instructions:
 
-Clone repository in Visual Studio Code
+Clone repository in Visual Studio (2019?)
